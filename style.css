@@ -16,16 +16,16 @@ h1{
     text-align: center;
 }
 .image img{
-    width: 120px;
+    width: 100px;
 }
 .links{
     padding:25px;
     text-align: center;
     display: grid;
-    font-size: 25px;
+    font-size: 18px;
 }
 .links img{
-    width: 25px;
+    width: 18px;
 }
 a{
     padding: 10px;
